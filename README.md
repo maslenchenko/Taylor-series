@@ -32,6 +32,7 @@ The third module is created to compare accuracy using matplotlib.pyplot library 
 Accuracy of the calculations:
 
 The following three graphs illustrate how the accuracy increases with the increase of the number of terms. In the majority of cases, ten terms are enough to achieve the accuracy of more than four decimal points. In general, sometimes it is enough five or even four terms (second graph), but there are some x values that deviate significantly from the correct values (picture 4, number of terms: 8). For graphs 5 and 6, the number of terms is 12, and here it is visible that schedules overlap.
+
 ![small_3](https://user-images.githubusercontent.com/91615687/155280014-a186ed2c-3b0b-4e72-8c22-6985e9051cb1.png)
 ![small_4](https://user-images.githubusercontent.com/91615687/155280031-772e4dbb-1fbc-4043-bcea-0be8a305fb99.png)
 ![small_10](https://user-images.githubusercontent.com/91615687/155280049-d0538c8d-6887-4dab-be38-b439fed8d3ae.png)
