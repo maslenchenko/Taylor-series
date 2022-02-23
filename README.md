@@ -11,11 +11,11 @@ To complete the task, three modules were written in Python3: user_sinx.py, taylo
 The first one simply calculates the value of certain x using the formula above. The function also accepts a number of terms. 
 Here is the main code of the three modules. To improve the accuracy of calculations, 2 period is discarded. Then calculations repeat num times, for n == 1 to n == num. At first, the factorial of (2n-1) is calculated, and then the formula whose value is assigned to the variable sinx.
 
-x_value = x_value%(2*pi)
+      x_value = x_value%(2*pi)
 
-   sinx = 0
+      sinx = 0
     
-   for n in range(num):
+      for n in range(num):
    
        n += 1
        
@@ -28,7 +28,7 @@ x_value = x_value%(2*pi)
            factorial *= i
            
        sinx += (((-1)**(n-1))*x_value**(2*n-1))/factorial
-return 1/(1+sinx)
+      return 1/(1+sinx)
 
 The module is designed to make it convenient for users to work with it.
 
