@@ -2,6 +2,7 @@ Using Taylor series to calculate 1 (1 +sinx)  function
 
 
 To calculate the value of 1 (1 +sinx)  function this formula was used:
+
 ![formula](https://user-images.githubusercontent.com/91615687/155279960-b0f9c7f2-0ac2-41e7-bd47-10a3ec460f0e.png)
 
 Coding part:
