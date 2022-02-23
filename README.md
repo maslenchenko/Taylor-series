@@ -28,8 +28,7 @@ x_value = x_value%(2*pi)
            factorial *= i
            
        sinx += (((-1)**(n-1))*x_value**(2*n-1))/factorial
-       
-   return 1/(1+sinx)
+return 1/(1+sinx)
 
 The module is designed to make it convenient for users to work with it.
 
