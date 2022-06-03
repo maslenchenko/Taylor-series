@@ -1,4 +1,4 @@
-Using Taylor series to calculate 1 (1 +sinx)  function
+#Using Taylor series to calculate 1 (1 +sinx)  function
 
 
 To calculate the value of 1 (1 +sinx)  function this formula was used:
